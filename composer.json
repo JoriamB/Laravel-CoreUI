@@ -1,5 +1,5 @@
 {
-    "name": "hz-hbo-ict/laravel-core-ui",
+    "name": "joriamb/laravel-core-ui",
     "description": "Easy to use package with authentication scaffold that provides an easy implementation of CoreUI within Laravel",
     "type": "library",
     "license": "MIT",
@@ -35,7 +35,7 @@
     },
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^7.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
